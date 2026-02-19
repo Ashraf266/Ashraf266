@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,bootstrap,nodejs,express,mongodb,c,cpp,arduino,python,java,git,github,npm,vscode,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,bootstrap,c,cpp,arduino,python,java,git,github,npm,vscode,postman,figma)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
